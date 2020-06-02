@@ -1,2 +1,2 @@
 # Mikrokontrolery
-Zdjęcia oraz filmy przedstawiające niektóre z moich projektów. Wszystkie urządzenia tworzone były hobbystycznie, dlatego nie dokumentowałem starannie i dokładnie moich dzieł, a co za tym idzie zdjęcia i filmy często są słabej jakości.
+Zdjęcia oraz filmy przedstawiające niektóre z moich projektów. Wszystkie urządzenia tworzone były hobbystycznie, dlatego nie dokumentowałem starannie i dokładnie moich dzieł, a co za tym idzie zdjęcia i filmy często są słabej jakości.Niestety GitHub nie sprzyja przechowywaniu filmów, dlatego materiały znajdują się na platformie youtube: https://www.youtube.com/playlist?list=PLDVbIO43J-BCEsRXkf50iW09CW_uvuUpf
